@@ -5,3 +5,13 @@
   <img align="center" alt="Luc-HTML"src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Luc-CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 </div>
+
+<h1>Do que gosto de fazer:</h1>
+
+<ul>
+  <li>Estudar (Principalmente programação)</li>
+  <li>Jogar</li>
+  <li>Adorar o Rei dos reis</li>
+  <li>Ficar com a família</li>
+  <li>Comer</li>
+</ul>
